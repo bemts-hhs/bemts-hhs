@@ -20,7 +20,7 @@ BEMTS is focused on creating **custom packages** 📦 that support **injury** an
 
 - **Trauma system effectiveness analytics** 🚑
 - **Injury event** and **Hospital admission** rates 🏥
-- **Mechanism / Nature of injury ** trends 💹
+- **Mechanism / Nature of injury** trends 💹
 - **EMS response metrics** ⏱️
 - **Reinjury** analytics ⚡
 - **Geospatial analyses** 🌍
