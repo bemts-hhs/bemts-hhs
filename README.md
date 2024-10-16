@@ -14,8 +14,6 @@ Welcome to the **BEMTS** repository! I am **Dr. Nicolas Foss**, an epidemiologis
   - ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=flat-square)
   - ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=flat-square)
 
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=dark&langs_count=6)](https://github.com/bemts-hhs/)
-
 ## 🔬 Research Interests
 
 My focus is on creating **custom packages** 📦 that support **injury** and **EMS research**. These packages streamline workflows, enhance data analysis, and promote reproducibility in public health research. Some key areas of interest:
