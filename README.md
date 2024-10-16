@@ -1,8 +1,8 @@
 # 🩺 **Injury and EMS Research Repository**
 
-Welcome to my repository! I am **Dr. Nicolas Foss**, an epidemiologist at the **Bureau of Emergency Medical and Trauma Services** at **Iowa HHS**. This repository focuses on **injury and emergency medical services (EMS) research** 🏥, leveraging data to drive public health improvements 📊.
+Welcome to the **BEMTS** repository! I am **Dr. Nicolas Foss**, an epidemiologist at the **Bureau of Emergency Medical and Trauma Services** at **Iowa HHS**. This repository focuses on **injury and emergency medical services (EMS) research** 🏥, leveraging data to drive public health improvements 📊.
 
-## 👨‍🔬 About Me
+## 👨‍💻 About the Developer
 
 - **Role**: Epidemiologist
 - **Organization**: Bureau of Emergency Medical and Trauma Services, Iowa HHS
@@ -31,22 +31,10 @@ This repository hosts code, datasets, and documentation for several projects, in
 - 🕒 **EMS response time analysis**
 - 🖥️ **Data visualization dashboards** for trauma and EMS metrics
 
-## 🚀 Getting Started
-
-To clone this repository and explore the projects:
-
-1. Clone the repository:  
-```bash
-git clone https://github.com/your-repo-url.git
-```
-
-2. Install dependencies (project-specific details in each folder).
-3. Follow project instructions for running the code and using the tools.
-
-## 🤝 Contributing
-Contributions are welcome! 📝 If you encounter issues or have feature requests, check the repository's contribution guidelines for details.
-
 ## 📬 Contact
+
+📝 If you encounter issues or have feature requests, check the repository's contribution guidelines for details.
+
 Feel free to reach out with any questions, support requests, or collaboration inquiries:
 
 - **Email**: nicolas.foss@hhs.iowa.gov
