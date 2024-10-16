@@ -18,18 +18,13 @@ Welcome to the **BEMTS** repository! I am **Dr. Nicolas Foss**, an epidemiologis
 
 BEMTS is focused on creating **custom packages** 📦 that support **injury** and **EMS research**. These packages streamline workflows, enhance data analysis, and promote reproducibility in public health research. Some key areas of interest:
 
-- **Trauma case data analysis** 🚑
+- **Trauma system effectiveness analytics** 🚑
+- **Injury event** and **Hospital admission** rates 🏥
+- **Mechanism / Nature of injury ** trends 💹
 - **EMS response metrics** ⏱️
-- **Geospatial analysis** 🌍
-- **Data visualization** 📈
-
-## 📂 Ongoing Projects
-
-This repository hosts code, datasets, and documentation for several projects, including:
-
-- 📊 **Injury surveillance data analysis**
-- 🕒 **EMS response time analysis**
-- 🖥️ **Data visualization dashboards** for trauma and EMS metrics
+- **Reinjury** analytics ⚡
+- **Geospatial analyses** 🌍
+- **Data visualization** 📊
 
 ## 📬 Contact
 
