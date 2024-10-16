@@ -16,7 +16,7 @@ Welcome to the **BEMTS** repository! I am **Dr. Nicolas Foss**, an epidemiologis
 
 ## 🔬 Research Interests
 
-My focus is on creating **custom packages** 📦 that support **injury** and **EMS research**. These packages streamline workflows, enhance data analysis, and promote reproducibility in public health research. Some key areas of interest:
+BEMTS is focused on creating **custom packages** 📦 that support **injury** and **EMS research**. These packages streamline workflows, enhance data analysis, and promote reproducibility in public health research. Some key areas of interest:
 
 - **Trauma case data analysis** 🚑
 - **EMS response metrics** ⏱️
